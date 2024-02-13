@@ -1,5 +1,7 @@
 ---
 home: true
+heroText: FTCraft | Minecraft
+tagline: 一个一直退步永不进步的Minecraft服务器
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline:
 actionText: 点此开始 →
